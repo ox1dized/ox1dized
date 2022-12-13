@@ -29,28 +29,9 @@ namespace Intro
 Currently majoring [Informatics Engineering](https://en.wikipedia.org/wiki/Informatics_engineering) at [Riau University](https://unri.ac.id/en/)
 ## License
 ```
-This is free and unencumbered software released into the public domain.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit duis tristique sollicitudin nibh sit amet commodo nulla. Neque laoreet suspendisse interdum consectetur. Ridiculus mus mauris vitae ultricies leo integer malesuada. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Condimentum lacinia quis vel eros donec. Magna etiam tempor orci eu lobortis elementum nibh tellus. Tristique senectus et netus et malesuada fames ac turpis egestas. Pulvinar mattis nunc sed blandit libero volutpat sed cras ornare. Mus mauris vitae ultricies leo integer malesuada nunc. Pharetra et ultrices neque ornare aenean euismod.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Massa sapien faucibus et molestie ac feugiat sed. Nunc sed blandit libero volutpat sed cras ornare arcu. Varius vel pharetra vel turpis nunc eget lorem dolor. Id aliquet risus feugiat in. Mauris sit amet massa vitae. Aliquam vestibulum morbi blandit cursus risus at ultrices. Urna molestie at elementum eu facilisis sed. At varius vel pharetra vel turpis nunc eget lorem dolor. Eu turpis egestas pretium aenean. Tellus integer feugiat scelerisque varius morbi enim nunc.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+Magna fermentum iaculis eu non diam phasellus vestibulum lorem. Donec ultrices tincidunt arcu non sodales neque. Nec nam aliquam sem et tortor consequat id. Facilisis mauris sit amet massa vitae tortor condimentum lacinia quis. Massa id neque aliquam vestibulum morbi blandit cursus. Varius quam quisque id diam vel. Sed ullamcorper morbi tincidunt ornare massa eget egestas. Dolor purus non enim praesent elementum facilisis leo vel. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Egestas quis ipsum suspendisse ultrices gravida dictum. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Cursus mattis molestie a iaculis at erat pellentesque. Sit amet consectetur adipiscing elit pellentesque. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Fermentum et sollicitudin ac orci. Vitae turpis massa sed elementum tempus egestas sed. Augue ut lectus arcu bibendum at varius vel pharetra.
 ```
